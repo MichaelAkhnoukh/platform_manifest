@@ -48,7 +48,6 @@
   <project path="hardware/qcom/gps" name="SlimRoms/hardware_qcom_gps" />
   <project path="hardware/qcom/keymaster" name="SlimRoms/hardware_qcom_keymaster" />
   <project path="hardware/qcom/media" name="SlimRoms/hardware_qcom_media" />
-  <project path="hardware/qcom/power" name="SlimRoms/hardware_qcom_power" />
   <project path="hardware/qcom/wlan" name="SlimRoms/hardware_qcom_wlan" />
   <project path="hardware/ril" name="SlimRoms/hardware_ril" />
   <project path="libcore" name="SlimRoms/android_libcore" />
@@ -97,7 +96,6 @@
   <project path="external/connectivity" name="SlimRoms/android_external_connectivity" />
   <project path="external/libnetfilter_conntrack" name="SlimRoms/android_external_libnetfilter_conntrack" />
   <project path="external/libnfnetlink" name="SlimRoms/android_external_libnfnetlink" />
-  <project path="device/qcom/common" name="SlimRoms/device_qcom_common" />
   <project path="device/qcom/sepolicy" name="SlimRoms/device_qcom_sepolicy" />
   <project path="hardware/qcom/audio-caf/msm8916" name="SlimRoms/hardware_qcom_audio" revision="ng7.1-caf-8916" />
   <project path="hardware/qcom/audio-caf/msm8937" name="SlimRoms/hardware_qcom_audio" revision="ng7.1-caf-8937" />
